@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "hotel plaza", "TEL": " 933 334 4060", "URL": "null", "ADDRESS1": "Nicols Bravo 203,Centro,86300 Comalcalco, Tab.,Mexico", "ADDRES2": null, "CITY": "comalcalco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2269420,18.2655420 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Hotel Napoleon", "TEL": "933 120 6734", "URL": "null", "ADDRESS1": "Blvd. Adolfo López Mateos 234,Centro,86300 Comalcalco, Tab.,México", "ADDRES2": null, "CITY": "comalcalco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2209562,18.2674797 ] } }
+,
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Hotel Copacabana", "TEL": "933 334 1933", "URL": "NULL", "ADRESS1": "Calle Aquiles Serdán 101,Centro,86300 Comalcalco, Tab.,México", "ADDRESS2": null, "CITY": "comalcalco", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2233490,18.2618640] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Hotel Kaoma", "TEL": "933 334 1964", "URL": "hotelkaoma.com", "ADRESS1": "Calle Morelos s/n Esquina Abasolo,Centro,86300 Comalcalco, TAB,México", "ADDRESS2": null, "CITY": "comalcalco", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2236578,18.2625505 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Hotel Plaza Broca", "TEL": "933 334 4060", "URL": "null", "ADRESS1": "Nicolás Bravo 203,Centro,86300 Comalcalco, Tab.,México", "ADDRESS2": null, "CITY": "comalcalco", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2235612,18.2631414 ] } }
+
+]
+}

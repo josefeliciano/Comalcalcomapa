@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Zaragoza Restaurant Bar", "TEL": "933 334 6238", "URL": "null", "ADDRESS1": "59 East 59th Street", "ADDRES2": null, "CITY": "comalcalco", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2264643,18.2639708 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Bambú Sushi Bar", "TEL": "933 337 1132", "URL": "null", "ADDRESS1": "Calle 5 de Mayo 107,Centro,86300 Comalcalco, Tab.,México", "ADDRES2": null, "CITY": "COMALCALCO", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [-93.225657,18.2646617 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Comalcalitas", "TEL": "933 334 8757", "URL": "Null", "ADDRESS1": "Calle 5 de Mayo, nº 121,Centro,86300 Comalcalco, Tab.,México", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [-93.2258353,18.2651113 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "Restaurant Rancho Viejo", "TEL": "933 334 3046", "URL": "null", "ADDRESS1": "Boulevard Leandro Rovirosa Wade,Centro,86300 Comalcalco, Tab.,México", "ADDRES2": null, "CITY": "comalcalco", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2279335,18.2668337 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "Sushi Express Restaurante", "TEL": "933 334 3537", "URL": "null", "ADDRESS1": "Calle Mariano Arista,Centro,86300 Comalcalco, Tab.,México", "ADDRES2": null, "CITY": "comalcalco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2252137,18.2653157 ] } }
+
+]
+}
